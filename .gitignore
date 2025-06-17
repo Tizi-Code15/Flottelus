@@ -1,2 +1,11 @@
-env
+env/
+__pycache__/
+*.pyc
+
+*.swp
+*~
+
+.vscode/
+.idea/
+
 .env
